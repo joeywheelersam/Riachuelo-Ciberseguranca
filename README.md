@@ -38,36 +38,36 @@
                 <td>01</td>
                 <td>Bem vindo a Experiência Riachuelo Cibersegurança</td>
                 <td><a href="">Link</a></td>
-                <td align="center">✔️</td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>02</td>
                 <td>A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes</td>
                 <td><a href="">Link</a></td>
-                <td align="center">✔️</td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>03</td>
                 <td>Fudamentos de Modelos de Linguagem de Grande Escala</td>
                 <td><a href="">Link</a></td>
-                <td align="center">✔️</td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>04</td>
                 <td>Introdução à Engenharia de Prompts</td>
                 <td><a href="">Link</a></td>
-                <td align="center">✔️</td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>05</td>
                 <td>Técnicas de Engenharia de Prompt</td>
                 <td><a href="">Link</a></td>
-                <td align="center">✔️</td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>06</td>
                 <td>Desafios de Projetos: Crie um Portfólio Vencedor</td>
-                <td><a href="">Link</a></td>
+                <td><a href="./Módulo 1/06. Desafios de projetos - Crie um portfólio vencedor.md">Link</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
@@ -184,7 +184,6 @@
     </table>
 </div>
 </details>
-<br/>
 
 <details> <!--About module 4 / Sobre módulo 4-->
 <summary><span>Hacking Ético: Vulnerabilidades e Testes de Invasão</span></summary>
@@ -237,7 +236,6 @@
     </table>
 </div>
 </details>
-<br/>
 
 <details> <!--About module 5 / Sobre módulo 5-->
 <summary><span>Avançando na Análise e Proteção de Ataques Cibernéticos</span></summary>
