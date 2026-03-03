@@ -4,8 +4,8 @@
 <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
     <p align="left"><strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é melhor ainda.</p>
-    <p align="left">🦄 Linguagens: <strong>Python</strong></p>
-    <p align="left">💼 Ferramentas: <strong><a href="https://code.visualstudio.com/download">Visual Studio Code (IDE)</a> / <a href="https://git-scm.com/">Git</a> / <a href="https://github.com/">GitHub</a></strong></p>
+    <p align="left">🦄 Linguagens: <strong><a href="https://www.python.org">Python</a></strong></p>
+    <p align="left">💼 Ferramentas: <strong><a href="https://www.kali.org">Kali Linux</a></strong></p>
     <br/>
     <table> 
         <tbody>
@@ -228,7 +228,7 @@
             </tr>
             <tr>
                 <td>06</td>
-                <td>Simulando um Ataque de Brute Force de Senhas com Medusa e Kaline Linux</td>
+                <td>Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux</td>
                 <td><a href="">Link</a></td>
                 <td align="center">❌</td>
             </tr>
